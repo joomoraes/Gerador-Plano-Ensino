@@ -1,5 +1,8 @@
 package br.edu.ifmt.planoensino;
 
-public class Teste2 {
+import org.springframework.boot.SpringApplication;
 
+public class Teste2 {
+	
+	//teste
 }
